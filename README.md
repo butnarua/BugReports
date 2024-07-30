@@ -1,4 +1,4 @@
-# Bugs
+# Bug reports
 
 Below are some Bug samples that I wrote while working on previous projects.
 
